@@ -1,22 +1,22 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.1.1/kitlegal_windows_amd64.zip",
+            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.2.0/kitlegal_windows_amd64.zip",
             "bin": [
                 "kitlegal.exe"
             ],
-            "hash": "6fa7a616cd9a3f5d0763a63360d2ceee33213f45f235ff4b4640ca08c10684a9"
+            "hash": "c9f7aa352026fb5a4b13715ba9bf8ee7ff3471e618f835c5d31d3d2188f3374f"
         },
         "arm64": {
-            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.1.1/kitlegal_windows_arm64.zip",
+            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.2.0/kitlegal_windows_arm64.zip",
             "bin": [
                 "kitlegal.exe"
             ],
-            "hash": "4bf3125bf8c203729715df970ba18b73fbbb8d7dfd7b549da90c79e1a9c8c650"
+            "hash": "6429f24aa3d55e9d78ed9c98cfbac264c3bf43aac35c43b782e37e3914afb7a7"
         }
     },
     "homepage": "https://github.com/jmorenobl/kitlegal",
-    "license": "Apache-2.0",
-    "description": "Consulta fuentes legales públicas españolas desde skills agénticas"
+    "license": "EUPL-1.2",
+    "description": "Tu asistente de IA responde con la ley vigente del BOE y la cita exacta"
 }
