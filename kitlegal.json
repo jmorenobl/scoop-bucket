@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.1.1/kitlegal_windows_amd64.zip",
+            "bin": [
+                "kitlegal.exe"
+            ],
+            "hash": "6fa7a616cd9a3f5d0763a63360d2ceee33213f45f235ff4b4640ca08c10684a9"
+        },
+        "arm64": {
+            "url": "https://github.com/jmorenobl/kitlegal/releases/download/v0.1.1/kitlegal_windows_arm64.zip",
+            "bin": [
+                "kitlegal.exe"
+            ],
+            "hash": "4bf3125bf8c203729715df970ba18b73fbbb8d7dfd7b549da90c79e1a9c8c650"
+        }
+    },
+    "homepage": "https://github.com/jmorenobl/kitlegal",
+    "license": "Apache-2.0",
+    "description": "Consulta fuentes legales públicas españolas desde skills agénticas"
+}
